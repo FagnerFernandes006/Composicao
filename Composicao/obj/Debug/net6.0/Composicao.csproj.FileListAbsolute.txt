@@ -1,0 +1,15 @@
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\bin\Debug\net6.0\Composicao.exe
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\bin\Debug\net6.0\Composicao.deps.json
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\bin\Debug\net6.0\Composicao.runtimeconfig.json
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\bin\Debug\net6.0\Composicao.dll
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\bin\Debug\net6.0\Composicao.pdb
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\obj\Debug\net6.0\Composicao.csproj.AssemblyReference.cache
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\obj\Debug\net6.0\Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\obj\Debug\net6.0\Composicao.AssemblyInfoInputs.cache
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\obj\Debug\net6.0\Composicao.AssemblyInfo.cs
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\obj\Debug\net6.0\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\obj\Debug\net6.0\Composicao.dll
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\obj\Debug\net6.0\refint\Composicao.dll
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\obj\Debug\net6.0\Composicao.pdb
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\obj\Debug\net6.0\Composicao.genruntimeconfig.cache
+C:\Users\Fagner Fernandes\source\repos\Composicao\Composicao\obj\Debug\net6.0\ref\Composicao.dll
