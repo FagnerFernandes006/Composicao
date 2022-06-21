@@ -1,6 +1,6 @@
 ﻿namespace Composicao.Entities
 {
-    public class Departamento
+    class Departamento
     {
         public string Nome { get; set; }
         public Departamento()

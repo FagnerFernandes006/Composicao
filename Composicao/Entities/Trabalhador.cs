@@ -2,7 +2,7 @@
 
 namespace Composicao.Entities
 {
-    public class Trabalhador
+    class Trabalhador
     {
         public string Nome { get; set; }
         public LevelTrabalhador Level { get; set; }
@@ -13,7 +13,7 @@ namespace Composicao.Entities
         public Trabalhador()
         {
         }
-        public Trabalhador(string nome, LevelTrabalhador level, double salarioBase, Departamento departamento) 
+        public Trabalhador(string nome, LevelTrabalhador level, double salarioBase, Departamento departamento)
         {
             Nome = nome;
             Level = level;

@@ -1,6 +1,6 @@
 ﻿namespace Composicao.Entities
 {
-    public class HorasContrato
+    class HorasContrato
     {
         public DateTime Data { get; set; }
         public double ValorPorHora { get; set; }
