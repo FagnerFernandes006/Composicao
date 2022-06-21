@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Composicao",
+    "\\Composicao\\Entities"
   ],
-  "SelectedNode": "\\C:\\Users\\Fagner Fernandes\\OneDrive\\Área de Trabalho\\Project",
+  "SelectedNode": "\\Composicao\\Entities\\Trabalhador.cs",
   "PreviewInSolutionExplorer": false
 }

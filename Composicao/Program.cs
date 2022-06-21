@@ -32,7 +32,7 @@ namespace Composicao
                 DateTime data = DateTime.Parse(Console.ReadLine());
                 Console.Write("Valor por hora: ");
                 double valorPorHora = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                Console.Write("Dutação (Horas): ");
+                Console.Write("Duração (Horas): ");
                 int horas = int.Parse(Console.ReadLine());
                 HorasContrato contrato = new HorasContrato(data, valorPorHora, horas);
                 trabalhador.AdicionarContrato(contrato);
@@ -42,9 +42,9 @@ namespace Composicao
             int mes = int.Parse(MesAno.Substring(0, 2));
             int ano = int.Parse(MesAno.Substring(3));
             Console.WriteLine("Nome: " + trabalhador.Nome);
-            Console.WriteLine("Departamento: " + trabalhador.Departamento);
+            Console.WriteLine("Departamento: " + trabalhador.Departamento.Nome);
             double ganho = trabalhador.Ganho(ano, mes);
-            Console.WriteLine("Ganho " + MesAno + ": " + ganho);
+            Console.WriteLine("Ganho " + MesAno + ": " + ganho.ToString("F2", CultureInfo.InvariantCulture));
 
         }
     }
